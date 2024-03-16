@@ -15,4 +15,4 @@ summary(immuno)
 head(immuno)
 sapply(immuno, class)
 sapply(immuno, function(x) sum(is.na(x)))
-cor(immuno)
+
